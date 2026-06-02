@@ -212,11 +212,11 @@ CRM systems are important tools for organizations of all sizes because they cent
 
 | Product | Target Customer | Strengths | Weaknesses | Pricing Model |
 |--------|-----------------|------------|-------------|----------------|
-| :contentReference[oaicite:0]{index=0} | Large enterprises, mid-to-large businesses | Extremely customizable, huge ecosystem, strong analytics, industry leader | Expensive, steep learning curve, complex setup | Subscription-based (tiered per user/month) |
-| :contentReference[oaicite:1]{index=1} | Small to mid-sized businesses, startups | Easy to use, free tier available, strong marketing automation, quick setup | Paid tiers become expensive, limited deep customization | Freemium + tiered SaaS pricing |
-| :contentReference[oaicite:2]{index=2} | Small to mid-sized businesses | Affordable, broad feature set, integrates with Zoho ecosystem | UI less polished, can feel cluttered | Subscription-based (low-cost tiers) |
-| :contentReference[oaicite:3]{index=3} | Mid-to-large enterprises | Deep Microsoft integration, strong enterprise features, AI capabilities | Complex licensing, implementation cost | Subscription-based (modular pricing) |
-| :contentReference[oaicite:4]{index=4} | Large enterprises | Powerful enterprise analytics, scalable, strong data integration | Very expensive, complex deployment | Enterprise licensing / subscription |
+| Salesforce | Large enterprises, mid-to-large businesses | Highly customizable, strong ecosystem, advanced analytics | Expensive, complex setup, steep learning curve | Subscription-based (per user/month tiers) |
+| HubSpot CRM | Small to mid-sized businesses, startups | Easy to use, free tier available, strong marketing tools | Advanced features require expensive upgrades | Freemium + tiered SaaS pricing |
+| Zoho CRM | Small to mid-sized businesses | Affordable, feature-rich, strong ecosystem integration | Interface can feel cluttered | Subscription-based (low-cost tiers) |
+| Microsoft Dynamics 365 CRM | Mid-to-large enterprises | Deep Microsoft integration, strong enterprise tools, AI features | Complex licensing and setup | Subscription-based (modular pricing) |
+| Oracle CRM | Large enterprises | Powerful enterprise analytics, scalable, strong data integration | Very expensive, complex implementation | Enterprise licensing / subscription |
 
 ---
 
@@ -226,44 +226,36 @@ CRM systems are important tools for organizations of all sizes because they cent
 
 | Product | Features | Technology Stack | Community Support | Ease of Installation |
 |---------|----------|------------------|-------------------|----------------------|
-| :contentReference[oaicite:5]{index=5} | Sales automation, reporting, workflows, customization | PHP, MySQL | Strong, active community | Moderate (requires server setup) |
-| :contentReference[oaicite:6]{index=6} | Contacts, leads, dashboards, API support | PHP, JavaScript | Moderate community | Easy (web installer available) |
-| :contentReference[oaicite:7]{index=7} | CRM integrated with ERP, sales pipeline, automation | Python, PostgreSQL | Very strong, large ecosystem | Moderate (depends on modules) |
-| :contentReference[oaicite:8]{index=8} | Sales, marketing, support, automation tools | PHP, MySQL | Active but smaller than Odoo/SuiteCRM | Moderate |
+| SuiteCRM | Sales automation, reporting, workflows, customization | PHP, MySQL | Strong, active community | Moderate (requires server setup) |
+| EspoCRM | Contacts, leads, dashboards, API support | PHP, JavaScript | Moderate community | Easy (web installer available) |
+| Odoo CRM | CRM integrated with ERP, sales pipeline, automation | Python, PostgreSQL | Very strong, large ecosystem | Moderate (depends on modules) |
+| Vtiger CRM | Sales, marketing, support, automation tools | PHP, MySQL | Active but smaller than Odoo/SuiteCRM | Moderate |
 
 ---
 
 ## Analysis
 
 ### 1. Which commercial CRM appears most popular?
-:contentReference[oaicite:9]{index=9} is the most widely adopted commercial CRM.  
-It dominates the enterprise market due to its scalability, massive ecosystem, and extensive third-party integrations.
+Salesforce is the most widely adopted commercial CRM due to its dominance in the enterprise market, large ecosystem, and extensive integrations.
 
 ---
 
 ### 2. Which open-source CRM appears most mature?
-:contentReference[oaicite:10]{index=10} is generally considered the most mature open-source CRM.  
-It has been around longer, offers strong enterprise-style features, and has an active development community.
+SuiteCRM is generally considered the most mature open-source CRM due to its long history, enterprise-level features, and active community support.
 
 ---
 
 ### 3. Which CRM would you recommend for a small business?
-For small businesses, :contentReference[oaicite:11]{index=11} or :contentReference[oaicite:12]{index=12} are the best options.
-
-- HubSpot: best for ease of use and fast onboarding  
-- Zoho: best for affordability and feature depth  
+For small businesses, HubSpot CRM or Zoho CRM are the best options because they are easy to use, affordable, and quick to deploy.
 
 ---
 
 ### 4. Which CRM would you recommend for a large enterprise?
-For large enterprises, :contentReference[oaicite:13]{index=13} or :contentReference[oaicite:14]{index=14} are the strongest choices.
-
-- Salesforce: best overall ecosystem and CRM specialization  
-- Dynamics 365: best for companies heavily using Microsoft products  
+For large enterprises, Salesforce or Microsoft Dynamics 365 CRM are the strongest choices due to scalability, integration capabilities, and enterprise-grade features.
 
 ---
 
 ### 5. Justification Summary
-- **Enterprise needs:** require scalability, security, and integrations → Salesforce / Dynamics 365  
-- **Small business needs:** require simplicity and cost efficiency → HubSpot / Zoho  
-- **Open-source maturity:** SuiteCRM leads due to longevity and feature completeness  
+- Enterprise solutions: Salesforce, Microsoft Dynamics 365  
+- Small business solutions: HubSpot CRM, Zoho CRM  
+- Open-source maturity leader: SuiteCRM due to stability and long-term adoption  
