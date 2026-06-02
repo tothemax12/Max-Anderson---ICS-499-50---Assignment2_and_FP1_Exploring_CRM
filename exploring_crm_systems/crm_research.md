@@ -263,6 +263,7 @@ For large enterprises, Salesforce or Microsoft Dynamics 365 CRM are the stronges
 ---
 
 # Part 3 – Open Source CRM Exploration (10 Points)
+
 (My screenshots for this section can be found in the screenshots folder.)
 
 ## Evaluation Questions
@@ -272,25 +273,34 @@ Answer the following:
 ### Installation Experience
 
 * Was installation easy?
+  
 Yes, there was no installation, it was an online demo.
 
 * What challenges occurred?
+
 No big challenges occurred. With the online demo SuiteCRM was easy to preview and access.
   
 * How did AI help?
+
 I did not need AI for this part of the assignment.
 
 
 ### Product Experience
 
 * What features impressed you?
+  
+I am not experienced enough with CRM's to say what is impressive about it.
+  
 * What features were missing?
-I am not experience enough with CRM's to say what was missing, however I did not see a Analytics section of the application.
+  
+I am not experienced enough with CRM's to say what was missing, however I did not see a Analytics section of the application.
 
 * Would you use it in a real organization?
+  
 Yes, SuiteCRM seems like a high quality professional application that could be used at a real organzation. But for me personally, I have worked more with Salesforce. 
 
 Explain your reasoning.
+
 A quick Google search brings up a list of 288 companies that use SuiteCRM. (From TheirStack.com)
 
 ---
