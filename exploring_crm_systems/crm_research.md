@@ -299,7 +299,7 @@ I am not experienced enough with CRM's to say what was missing, however I did no
   
 Yes, SuiteCRM seems like a high quality professional application that could be used at a real organzation. But for me personally, I have worked more with Salesforce. 
 
-Explain your reasoning.
+* Explain your reasoning.
 
 A quick Google search brings up a list of 288 companies that use SuiteCRM. (From TheirStack.com)
 
