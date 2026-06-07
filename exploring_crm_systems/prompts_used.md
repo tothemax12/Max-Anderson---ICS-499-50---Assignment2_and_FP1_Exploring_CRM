@@ -5,7 +5,11 @@ Document at least five prompts that produced useful results.
 Example:
 
 ```text
-
+1. "From all the information you synthesized on comparing various CRM systems. What is the best in your opinion and why?"
+2. "Could you help me use mermaid to design this architecture diagram?
+3. "What is the 'Leads' feature used for in CRM systems?"
+4. "What are CRM systems, and what are they used for?"
+5. "Could you generate the references you used in your comparison of the CRM systems?"
 ```
 
 ---
@@ -22,7 +26,7 @@ One thing that I feel AI struggles with is dumping so much information on me at 
 I feel that with better prompt engineering, it can condense the information into an amount appropriate for the average human.
 
 ### What information required validation
-
+It was difficult to distinguish between the information that I needed to validate and information I did not in this context.
 
 ### What surprised you
 I was suprised how helpful and versitile AI has become, it can generate md's and create diagrams as well.
