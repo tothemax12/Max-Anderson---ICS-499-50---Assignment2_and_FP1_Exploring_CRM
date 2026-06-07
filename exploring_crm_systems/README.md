@@ -15,8 +15,6 @@ From this research I learned that a CRM (customer relationship management) syste
 with customers. This is accomplished through common CRM features such as contact and account management or a lead tracking page, where we can manage
 potential customers.
 
-
-
 ## CRM Product Comparisons
 My in depth CRM product comparison tables can be found in my crm_research.md file,
 However, overall, ChatGPT recommended Salesforce for these reasons:
@@ -61,9 +59,10 @@ Here is the CRM Architecture ChatGPT proposed.
 ```
 
 ## Prompt Engineering Examples
-Here are 5 prompts that provided useful responses in my research:
-"Overall what CRM do you recommend?"
+Please refer to my prompts_used.md for examples of prompts I found to be effective in my research.
 
 ## Lessons Learned
+I learned that, while AI is obiviously not perfect, it can be utlized, as a tutor to help me digest information.
+I also learned the importance of prompt engineering. It is crucial to write thoughtful and detailed prompts to receive the best responses.
 
 ## References
