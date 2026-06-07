@@ -61,6 +61,8 @@ Here is the CRM Architecture ChatGPT proposed.
 ```
 
 ## Prompt Engineering Examples
+Here are 5 prompts that provided useful responses in my research:
+"Overall what CRM do you recommend?"
 
 ## Lessons Learned
 
