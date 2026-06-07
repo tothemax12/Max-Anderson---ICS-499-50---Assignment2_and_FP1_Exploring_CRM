@@ -8,7 +8,7 @@ gb2717oo@go.minnstate.edu
 In this assignment we explored CRM systems and facilitated our research with the aid of AI.
 
 ## AI Tools Used
-I utilized solely ChatGPT for this assignment.
+I solely utilized ChatGPT for this assignment.
 
 ## CRM Research Findings
 From this research I learned that a CRM (customer relationship management) system, is, as the name implies, used for managing relationships
