@@ -66,3 +66,4 @@ I learned that, while AI is obiviously not perfect, it can be utlized, as a tuto
 I also learned the importance of prompt engineering. It is crucial to write thoughtful and detailed prompts to receive the best responses.
 
 ## References
+Please refer to my references.md file.
