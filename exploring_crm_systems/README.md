@@ -36,8 +36,9 @@ The downside is cost and complexity. Many organizations need an administrator or
 
 Here is the CRM Architecture ChatGPT proposed.
 
+```text
 +----------------------+
-|      Browser         |
+|       Browser        |
 | HTML/CSS/JS/jQuery   |
 |      Bootstrap       |
 +----------+-----------+
@@ -46,17 +47,18 @@ Here is the CRM Architecture ChatGPT proposed.
            |
 +----------v-----------+
 |   PHP Application    |
-| Business Logic       |
-| Authentication       |
-| Validation           |
-| Reporting            |
+|    Business Logic    |
+|    Authentication    |
+|     Validation       |
+|      Reporting       |
 +----------+-----------+
            |
            | SQL Queries
            |
 +----------v-----------+
-|     MySQL Database   |
+|    MySQL Database    |
 +----------------------+
+```
 
 ## Prompt Engineering Examples
 
