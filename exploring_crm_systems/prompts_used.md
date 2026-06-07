@@ -2,8 +2,6 @@
 
 Document at least five prompts that produced useful results.
 
-Example:
-
 ```text
 1. "From all the information you synthesized on comparing various CRM systems. What is the best in your opinion and why?"
 2. "Could you help me use mermaid to design this architecture diagram?
